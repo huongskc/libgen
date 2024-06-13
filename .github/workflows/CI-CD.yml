@@ -21,18 +21,18 @@ jobs:
           flutter-version: '3.22.2'
       - name: Build APK
         run: flutter build apk --debug --split-per-abi
-      - name: Create a Release APK
-        uses: ncipollo/release-action@v1
-        with:
-          artifacts: "build/app/outputs/apk/debug/libgen.apk"
-          tag: v1.0
-          token: ${{ secrets.TOKEN }}
+
+      - name: Archive files
+        run: |
+          sudo apt-get update
+          sudo apt-get install zip
+          zip -r archive.zip *
 
       - name: Upload to GG Drive
         uses: adityak74/google-drive-upload-git-action@main
         with:
           credentials: ${{ secrets.credentials }}
-          filename: "libgen.apk"
+          filename: "archive.zip"
           folderId: ${{ secrets.folderId }}
-          name: "libgen.apk"
+          name: "libgen.zip"
           overwrite: "true"
