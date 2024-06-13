@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "libgen-app",
+  "private_key_id": "0c94a4bf9ed37e2f14620f2cedd8412a876f9789",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDwEqa+DcTVclCr\nTzUyDwvCPiJWujf8flAixXCq8T8f0+IeYlMUBmvPh0TblhY6xb70+Q5O08tOUe1i\nwhX6twu9Xbi+15NhQwdieSCaiAY2E5fWsm5Boe0sJa/KkhQeXvv2znRUMyPrtt38\njCihKevYqB345F2JC/M70/4gBXA3RXYbgEAoSL8mFfvX5Dh7wuEkiykfp9x0zBjk\npLyULbzHeMfgNgGI6xrHgOF2geFC+E/9Lm5KYLcRD/sGU0mhpBaF0xzGa9fRdK4q\nHyQIpoOS+/i+XYAlUwc+chVJ6X215OCEjhTrx+rX73TDQtUsfqCzXpI4QK4hyVWE\nqNZRf3YTAgMBAAECggEAV15KTW9AW3ebUQTl9J5SJrIrGAn0NxEXA9h73NIoKWKY\nb3tUBb0ifieZ0RopY+E0Uf3Tja95VTrum9rLWe9Et/lEMzvMGIDmzpkLWwG21PZD\nc3CDPKJ76G2csKmB5d2mb9cJsdzcrTtjRTYS0Tgq6zGfmsUtHyN4tSS83pVsFcie\nqkneZw3V22VEXdO8pn8XOt6bkaF2FWq3gHp5cYbLCIQaM7wR0wxwEp7OQyC+8b4+\nxsHaQwn/ckklZA3t7r5URwLaHd4Le0Dx2G5lo98SY3Bfi/sLwXS4RY3R2bbJZU0P\nL4T5xZ6zlnYEEZ3E+7OkUF9rLNvJ0e/xHWGi4hR19QKBgQD9mK/FhZw9uslSUBJj\nalK4hFpg1kFVTJQFOP4HI8GsvAnvCYLT5H3mcCU8JFQ23ebNPdDNS6DeBH01g4HI\n7WnadxVUYZmGbzG8aoaoiQ/KbiZUdn0gabGlNHMv4wAZ7iNwh9K86/7MF/eoAQsj\ni9PJ3C86H7Oo1bKC9Yc/r/J/vQKBgQDyWSbdpG/csHAqeg2ELYDy6QTvwxdvh088\nPFxioUXygK9Br34nboJeotZj6r6hwSIZZH6LBPYZwi2iCjfn9syjwuLYIzdsirTL\nNgV7ChIJtaoiLmZBjjuzqiIxv8zHQ1eJBbgrOoUP3FinTBdpZYpVIu8vF0IDTGGq\ntRkuY9yCDwKBgQD0hb02X9Z/TxO/4qVYZrTMZhIfPXhRnz06q/GFQN0GiWmqqykS\n10buY0QD8aOiI+TgEbK7wSij6wAwEVWbQBDJLfnLGzDFh4IVg0HEUCSBtCQRXQ7Z\nqhA4k5Jdoiv+1LgnUU/KCmPst099F0R+Sd00zrJbASZirWsrC0QWDLluoQKBgQC9\nhiLy6ongmMrfLRws5jkVvk1yA6vsOHEqtjm5mE3PW/uy7r9FrxKdV9M5yHbUoOk9\n2m1r4rFja4usUTlvWn6nAt3MEZ5icAb7dH/MvQ9mMH+gw5CMa+Mcmkyrg0dt/agT\nLDne9KDiyns6OjOE5TfNZMiQlyu00KMAkSfkM4xa2QKBgQDidmttGSoaR5r43shk\nB5BFAn16L3T8yUDpDmqizwY5cSY7TrZi7AcBt3xCtZXZcd2nxHrTbMhbotZXqrPT\n1NEub1LRleb/t0rV94IJpdGZAUQ2079/nBQfbDI+Hfu2jsb2X2CbV2+jpA1UbtHE\nqy7w483AozCAgJwbxmKlmBvOSg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "huongskc238@libgen-app.iam.gserviceaccount.com",
+  "client_id": "103434066812118606942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/huongskc238%40libgen-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
