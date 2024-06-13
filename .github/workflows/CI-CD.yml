@@ -11,11 +11,7 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v1
-<<<<<<< HEAD
 
-=======
-        
->>>>>>> f74c264698d568dcd157328041ab3896b2d20ff5
       - name: Set up Java environment
         uses: actions/setup-java@v1
         with:
