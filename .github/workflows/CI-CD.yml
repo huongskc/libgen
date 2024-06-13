@@ -39,3 +39,4 @@ jobs:
           folderId: ${{ secrets.folderId }}
           name: "libgen.apk"
           overwrite: "true"
+          mimeType: "application/vnd.android.package-archive"
