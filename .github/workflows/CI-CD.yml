@@ -40,3 +40,7 @@ jobs:
           name: "libgen.apk"
           overwrite: "true"
           mimeType: "application/vnd.android.package-archive"
+
+      - name: Share Google Drive Link
+        run: |
+          echo "Download the APK from: https://drive.google.com/uc?export=download&id=1DiKo9j3KjyaZKwiepy9jX1daI05FGuGy"
