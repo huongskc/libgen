@@ -1,16 +1,35 @@
-# libgen
+# LibGen
 
-A new Flutter project.
+## The story
+### Mission
+Develop a mobile app for LibGen.
 
-## Getting Started
+### Vision
+Knowledge is locked behind a paywall.  
+We don't like that.  
+LibGen is trying to change that.  
+So we're here to help LibGen.  
 
-This project is a starting point for a Flutter application.
+### Statement on Revenue
+1. The project's income will be used to cover the cost of the project.
+2. The 20% of revenue will be shared among contributors.
+3. The 80% of the income will be donated to LibGen.
 
-A few resources to get you started if this is your first Flutter project:
+## Roadmap
+We are still little bit vague about the pathway. I think that's okay.  
+We will figure out while doing it.
+### Phase 1
+Create a MVP app that:
+- [ ] Implement a search feature.
+- [ ] Implement a download feature.
+- [ ] Internal Alpha test.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Phase 2
+Publish the app to the wild:
+- [ ] Publish this app to Google Play Store.
+- [ ] ...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Phase 3
+Monetization:
+- [ ] Place friendly ads in the app.
+- [ ] Send money to LibGen.
