@@ -42,7 +42,7 @@ jobs:
           mimeType: "application/vnd.android.package-archive"
 
       - name: Share Google Drive Link
-          uses: discord-actions/message@v2
-          with:
-            webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
-            message: "Hello, from Github"
+        uses: discord-actions/message@v2
+        with:
+          webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          message: "Hello, from Github"
