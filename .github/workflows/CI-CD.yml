@@ -47,4 +47,3 @@ jobs:
         with:
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
           message: "Dowload the APK from: https://drive.google.com/uc?export=download&id=1DiKo9j3KjyaZKwiepy9jX1daI05FGuGy"
-          username: "LibGen App"
