@@ -42,7 +42,9 @@ jobs:
           mimeType: "application/vnd.android.package-archive"
 
       - name: Share Google Drive Link
+        if: success()
         uses: discord-actions/message@v2
         with:
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          message: "Hello, from Github"
+          message: "Dowload the APK from: https://drive.google.com/uc?export=download&id=1DiKo9j3KjyaZKwiepy9jX1daI05FGuGy"
+          username: "LibGen App"
